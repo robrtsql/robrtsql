@@ -67,7 +67,7 @@ I described above won't work. However, if I use a
 [monospaced font](https://fontlibrary.org/en/font/press-start-2p) then I might
 get the results that I'm looking for.
 
-![Animated GIF with slightly better spacing](/robrtsql/img/weird-spacing.gif)
+![Animated GIF with slightly better spacing](/robrtsql/img/better-spacing.gif)
 
 Well, it looks a little better, but we had to choose a font with a completely
 different look, and there are still some kerning issues (the 'i' in sign looks
