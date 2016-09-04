@@ -1,0 +1,12 @@
+title: robrtsql
+email: robrtsql@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  the robrtsql blog, for all things robrtsql
+baseurl: "/robrtsql" # the subpath of your site, e.g. /blog
+url: "http://robrtsql.github.io" # the base hostname & protocol for your site
+twitter_username: robrtsql
+github_username:  robrtsql
+
+# Build settings
+markdown: kramdown
+theme: minima
