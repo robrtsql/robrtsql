@@ -11,6 +11,12 @@ a common effect which you might see in a game like Earthbound.
 I am using [LÖVE](https://love2d.org/) for my game because it's an easy-to-use
 framework with tons of community-authored libraries.
 
+Let's try this implementation out and see what happens.
+
+![Animated GIF with awkwardly spaced text](/img/weird-spacing.gif)
+
+The spacing seems to be off, right?
+
 {% highlight ruby %}
 def print_hi(name)
   puts "Hi, #{name}"
