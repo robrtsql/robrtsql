@@ -13,7 +13,7 @@ framework with tons of community-authored libraries.
 
 Let's try this implementation out and see what happens.
 
-![Animated GIF with awkwardly spaced text](/img/weird-spacing.gif)
+![Animated GIF with awkwardly spaced text](/robrtsql/img/weird-spacing.gif)
 
 The spacing seems to be off, right?
 
