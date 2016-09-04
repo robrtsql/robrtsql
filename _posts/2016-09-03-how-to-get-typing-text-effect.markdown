@@ -61,8 +61,7 @@ character width and multiplying it by the character's position in the string.
 Some characters are wider or thinner and this will cause weird gaps like the one
 seen between the apostrophe and the 'm'.
 
-In the above demo I am using this [fantastic UNDERTALE font]
-(https://www.behance.net/gallery/31268855/Determination-Better-Undertale-Font).
+In the above demo I am using this [fantastic UNDERTALE font](https://www.behance.net/gallery/31268855/Determination-Better-Undertale-Font).
 However, the characters appear to have variable width which means that the hack
 I described above won't work. However, if I use a
 [monospaced font](https://fontlibrary.org/en/font/press-start-2p) then I might
