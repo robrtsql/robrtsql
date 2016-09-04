@@ -6,8 +6,8 @@
 </description>
     <link>http://robrtsql.github.io/robrtsql/</link>
     <atom:link href="http://robrtsql.github.io/robrtsql/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 03 Sep 2016 22:00:20 -0500</pubDate>
-    <lastBuildDate>Sat, 03 Sep 2016 22:00:20 -0500</lastBuildDate>
+    <pubDate>Sat, 03 Sep 2016 22:09:05 -0500</pubDate>
+    <lastBuildDate>Sat, 03 Sep 2016 22:09:05 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -65,8 +65,7 @@ character width and multiplying it by the character’s position in the string.
 Some characters are wider or thinner and this will cause weird gaps like the one
 seen between the apostrophe and the ‘m’.&lt;/p&gt;
 
-&lt;p&gt;In the above demo I am using this [fantastic UNDERTALE font]
-(https://www.behance.net/gallery/31268855/Determination-Better-Undertale-Font).
+&lt;p&gt;In the above demo I am using this &lt;a href=&quot;https://www.behance.net/gallery/31268855/Determination-Better-Undertale-Font&quot;&gt;fantastic UNDERTALE font&lt;/a&gt;.
 However, the characters appear to have variable width which means that the hack
 I described above won’t work. However, if I use a
 &lt;a href=&quot;https://fontlibrary.org/en/font/press-start-2p&quot;&gt;monospaced font&lt;/a&gt; then I might
