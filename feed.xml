@@ -6,8 +6,8 @@
 </description>
     <link>http://robrtsql.github.io/robrtsql/</link>
     <atom:link href="http://robrtsql.github.io/robrtsql/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 03 Sep 2016 22:09:05 -0500</pubDate>
-    <lastBuildDate>Sat, 03 Sep 2016 22:09:05 -0500</lastBuildDate>
+    <pubDate>Sat, 03 Sep 2016 22:13:59 -0500</pubDate>
+    <lastBuildDate>Sat, 03 Sep 2016 22:13:59 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -71,7 +71,7 @@ I described above won’t work. However, if I use a
 &lt;a href=&quot;https://fontlibrary.org/en/font/press-start-2p&quot;&gt;monospaced font&lt;/a&gt; then I might
 get the results that I’m looking for.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/robrtsql/img/weird-spacing.gif&quot; alt=&quot;Animated GIF with slightly better spacing&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/robrtsql/img/better-spacing.gif&quot; alt=&quot;Animated GIF with slightly better spacing&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Well, it looks a little better, but we had to choose a font with a completely
 different look, and there are still some kerning issues (the ‘i’ in sign looks
