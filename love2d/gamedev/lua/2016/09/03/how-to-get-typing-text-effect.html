@@ -109,24 +109,9 @@ solution to print out each character in the right position instead.</p>
 
 <p><img src="/robrtsql/img/weird-spacing.gif" alt="Animated GIF with awkwardly spaced text" /></p>
 
-<p>The spacing seems to be off, right? The problem with this implementation is
-that we can’t find the correct offset for a character simply by taking some
-character width and multiplying it by the character’s position in the string.
-Some characters are wider or thinner and this will cause weird gaps like the one
-seen between the apostrophe and the ‘m’.</p>
-
-<p>In the above demo I am using this <a href="https://www.behance.net/gallery/31268855/Determination-Better-Undertale-Font">fantastic UNDERTALE font</a>.
-However, the characters appear to have variable width which means that the hack
-I described above won’t work. However, if I use a
-<a href="https://fontlibrary.org/en/font/press-start-2p">monospaced font</a> then I might
-get the results that I’m looking for.</p>
-
-<p><img src="/robrtsql/img/better-spacing.gif" alt="Animated GIF with slightly better spacing" /></p>
-
-<p>Well, it looks a little better, but we had to choose a font with a completely
-different look, and there are still some kerning issues (the ‘i’ in sign looks
-like it hasn’t showered in days and all of the other letters in the word
-are trying to get as far away as possible).</p>
+<p>Something seems off about the spacing. The font I’m using is <a href="https://www.behance.net/gallery/31268855/Determination-Better-Undertale-Font">Determination Mono</a>).
+Even though it’s monospaced, it doesn’t seem like indexing to the position
+using a fixed character width is a good solution.</p>
 
   </div>
 
