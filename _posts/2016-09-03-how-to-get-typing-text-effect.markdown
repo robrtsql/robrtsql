@@ -55,21 +55,6 @@ Let's try this implementation out and see what happens.
 
 ![Animated GIF with awkwardly spaced text](/robrtsql/img/weird-spacing.gif)
 
-The spacing seems to be off, right? The problem with this implementation is
-that we can't find the correct offset for a character simply by taking some
-character width and multiplying it by the character's position in the string.
-Some characters are wider or thinner and this will cause weird gaps like the one
-seen between the apostrophe and the 'm'.
-
-In the above demo I am using this [fantastic UNDERTALE font](https://www.behance.net/gallery/31268855/Determination-Better-Undertale-Font).
-However, the characters appear to have variable width which means that the hack
-I described above won't work. However, if I use a
-[monospaced font](https://fontlibrary.org/en/font/press-start-2p) then I might
-get the results that I'm looking for.
-
-![Animated GIF with slightly better spacing](/robrtsql/img/better-spacing.gif)
-
-Well, it looks a little better, but we had to choose a font with a completely
-different look, and there are still some kerning issues (the 'i' in sign looks
-like it hasn't showered in days and all of the other letters in the word
-are trying to get as far away as possible).
+Something seems off about the spacing. The font I'm using is [Determination Mono](https://www.behance.net/gallery/31268855/Determination-Better-Undertale-Font)).
+Even though it's monospaced, it doesn't seem like indexing to the position
+using a fixed character width is a good solution.
